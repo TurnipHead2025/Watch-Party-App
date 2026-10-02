@@ -1,4 +1,6 @@
 
+// A single moment in the scene
+//// Represents a single, atomic moment on stage, holding dialogue, lighting, set layout, and blocking.
 
 public class Beat {
 

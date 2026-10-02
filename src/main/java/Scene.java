@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// A chapter in the show
+// Represents a specific scene in the show, holding scene metadata and an ordered list of beats
 
 public class Scene {
     //instance varibles
