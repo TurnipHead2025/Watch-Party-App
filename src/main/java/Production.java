@@ -1,6 +1,6 @@
 
 // The entire show
-//// Represents the entire show, holding show metadata and an ordered list of scenes[cite: 2].
+// Represents the entire show, holding show metadata and an ordered list of scenes[cite: 2].
 
 import java.util.ArrayList;
 import java.util.List;
