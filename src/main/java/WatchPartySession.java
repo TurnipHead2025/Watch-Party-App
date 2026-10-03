@@ -60,5 +60,14 @@ public class WatchPartySession {
         return production;
     }
 
+    //Setters
+    public void setCurrentSceneIndex(int currentSceneIndex) {
+    this.currentSceneIndex = currentSceneIndex;
+    }
+
+    public void setCurrentBeatIndex(int currentBeatIndex) {
+        this.currentBeatIndex = currentBeatIndex;
+    }
+
 
 }
