@@ -68,6 +68,7 @@ public class Production {
         mediaType = inputMediaType;
     }
 
+    // Updates the relationship between the Production and its Scenes.
     public void setScenes(List<Scene> inputScenes){
         scenes = inputScenes;
     }
