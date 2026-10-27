@@ -2,25 +2,29 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import org.junit.jupiter.api.Test;
 
+import com.watchparty.beat.Beat;
+
 public class BeatTest {
 
     @Test
-    public void testGetBeatIdReturnsCorrectId() {
-        Beat beat = new Beat("BEAT_01", "City of stars", "Street bench", "Dim blue", "Stage right");
+    public void testGetContentReturnsCorrectText() {
+        Beat beat = new Beat("City of stars", "Street bench", "Dim blue", "Stage right");
 
-        assertEquals("BEAT_01", beat.getBeatId());
+        assertEquals("City of stars", beat.getContent());
     }
 
     @Test
-    public void testGetLyricsReturnsCorrectText() {
-        Beat beat = new Beat("BEAT_01", "City of stars", "Street bench", "Dim blue", "Stage right");
+    public void testSetContentUpdatesCorrectly() {
+        Beat beat = new Beat("City of stars", "Street bench", "Dim blue", "Stage right");
 
-        assertEquals("City of stars", beat.getLyrics());        
+        beat.setContent("New content");
+
+        assertEquals("New content", beat.getContent());
     }
 
     @Test
     public void testSetLightingUpdatesCorrectly() {
-         Beat beat = new Beat("BEAT_01", "City of stars", "Street bench", "Dim blue", "Stage right");
+         Beat beat = new Beat("City of stars", "Street bench", "Dim blue", "Stage right");
 
          beat.setLighting("Bright amber");
          

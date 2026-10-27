@@ -1,15 +1,26 @@
+package com.watchparty.beat;
+import com.watchparty.scene.Scene;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.ManyToOne;
 
 // A single moment in the scene
 // Represents a single, atomic moment on stage, holding dialogue, lighting, set layout, and blocking.
 
+@Entity
 public class Beat {
-
-    //Instance variables or fields 
-    private String beatId;
-    private String lyrics;
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private long id;
+    private String content;
     private String setLayout;
     private String lighting;
     private String blocking;
+    @ManyToOne
+    private Scene scene;
 
     //constructors
 
@@ -17,21 +28,20 @@ public class Beat {
     public Beat(){}
 
     //parameterized
-    public Beat(String inputBeatId,String inputLyrics, String inputSetLayout, String inputLighting, String inputBlocking ){
-        beatId = inputBeatId;
-        lyrics = inputLyrics;
+    public Beat(String inputContent, String inputSetLayout, String inputLighting, String inputBlocking ){
+        content = inputContent;
         setLayout = inputSetLayout;
         lighting = inputLighting;
         blocking = inputBlocking;
     }
 
     //getters
-    public String getBeatId(){
-        return beatId;
+    public long getId(){
+        return id;
     }
 
-    public String getLyrics(){
-        return lyrics;
+    public String getContent(){
+        return content;
     }
 
     public String getSetLayout(){
@@ -46,13 +56,14 @@ public class Beat {
         return blocking;
     }
 
-    //setters
-    public void setBeatId(String inputBeatId){
-         beatId = inputBeatId;
+    public Scene getScene(){
+        return scene;
     }
 
-    public void setLyrics(String inputLyrics){
-        lyrics = inputLyrics;
+    //setters
+
+    public void setContent(String inputContent){
+        content = inputContent;
     }
 
     public void setSetLayout(String inputSetLayout){
@@ -66,12 +77,16 @@ public class Beat {
     public void setBlocking(String inputBlocking){
         blocking = inputBlocking;
     }
+
+    public void setScene(Scene scene){
+        this.scene = scene;
+    }
     
 
     @Override
     public String toString(){
-        return ("Beat Id: " + beatId + 
-        ", Lyrics: " + lyrics + 
+        return ("Beat Id: " + id + 
+        ", Content: " + content + 
         ", Set Layout: " + setLayout + 
         ", Lighting: " + lighting + 
         ", Blocking: " + blocking);

@@ -1,16 +1,19 @@
+package com.watchparty.bookmark;
 
-// The memory card
-// Manages saving and loading playback bookmarks to track session progress
+import com.watchparty.beat.Beat;
+import com.watchparty.production.Production;
+import com.watchparty.scene.Scene;
+import com.watchparty.session.WatchPartySession;
 
 public class BookmarkManager {
     //instance variables
-    private String lastSavedBeatId; //The unique name tag of the beat you stopped on (beat.beatId)
+    private Long lastSavedBeatId;
     private int savedSceneIndex; //The chapter number index (WatchPartySession.currentSceneIndex)
     private int savedBeatIndex; // How many beats into the scene (WatchPartySession.currentBeatIndex)
 
     //constructor
     public BookmarkManager() {
-        lastSavedBeatId = "";
+        lastSavedBeatId = null;
         savedSceneIndex = 0;
         savedBeatIndex = 0;
     }
@@ -23,7 +26,7 @@ public class BookmarkManager {
         Production production = session.getProduction();
         Scene currentScene = production.getScenes().get(savedSceneIndex); //get full list of scenes. Pull out the index captured by savedSceneIndex
         Beat currentBeat = currentScene.getBeats().get(savedBeatIndex); //Use the index captured in currentScene. Pull out the beat object from savedBeatIndex
-        lastSavedBeatId = currentBeat.getBeatId(); //Use the index from currentBeat to find the String ID of that beat
+        lastSavedBeatId = currentBeat.getId();
     }
 
     // Restores the session's playback position using the saved indices. (Mental map for me, please ignore if it confuses you. Passes in the current indexes saved from the saveBookmark getter methods to the restoreBoomark setters) 
@@ -33,7 +36,7 @@ public class BookmarkManager {
     }
 
     //Getters
-    public String getLastSavedBeatId(){
+    public Long getLastSavedBeatId(){
         return lastSavedBeatId;
     }
 
