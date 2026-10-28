@@ -1,10 +1,12 @@
 package com.watchparty.beat;
 import com.watchparty.scene.Scene;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.Lob;
 import jakarta.persistence.ManyToOne;
 
 // A single moment in the scene
@@ -15,11 +17,14 @@ public class Beat {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
+    @Lob
     private String content;
     private String setLayout;
     private String lighting;
+    @Lob
     private String blocking;
     @ManyToOne
+    @JsonBackReference("scene-beats")
     private Scene scene;
 
     //constructors

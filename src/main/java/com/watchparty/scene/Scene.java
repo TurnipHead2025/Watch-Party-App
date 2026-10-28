@@ -5,7 +5,10 @@ import java.util.List;
 import com.watchparty.beat.Beat;
 import com.watchparty.production.Production;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.Entity;
+import jakarta.persistence.CascadeType;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
@@ -22,10 +25,13 @@ public class Scene {
     private long id;
     private int sceneNumber;
     private String title;
-    @OneToMany(mappedBy = "scene")
+    @OneToMany(mappedBy = "scene", cascade = CascadeType.ALL)
+    @JsonManagedReference("scene-beats")
     private List<Beat> beats;
     @ManyToOne
+    @JsonBackReference("production-scenes")
     private Production production;
+     //casacde is a feature in JPA that allows an operation applied to one object to automatically continue to related objects
 
     //constructors
     public Scene(){

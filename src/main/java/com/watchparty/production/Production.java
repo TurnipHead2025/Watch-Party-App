@@ -4,6 +4,8 @@ import java.util.List;
 
 import com.watchparty.scene.Scene;
 
+import com.fasterxml.jackson.annotation.JsonManagedReference;
+import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -23,8 +25,10 @@ public class Production {
     private String title;
     private String mediaType;
     private String description;
-    @OneToMany(mappedBy = "production")
+    @OneToMany(mappedBy = "production", cascade = CascadeType.ALL)
+    @JsonManagedReference("production-scenes")
     private List<Scene> scenes;
+    //casacde is a feature in JPA that allows an operation applied to one object to automatically continue to related objects
 
     //constructors
     public Production(){
