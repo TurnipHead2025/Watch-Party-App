@@ -1,0 +1,280 @@
+---
+Title: 08 - Right Hand Man
+Set Layout: Full-stage military battlefield and command headquarters. Scaffolding is utilized heavily to represent defensive lookouts and fort lines.
+Lighting: Dark, smoke-filled atmosphere. Low-intensity steel blue and harsh white searchlight beams cut diagonally across the stage to simulate muzzle flashes and cannon fire.
+Blocking Elements:
+- The ensemble moves in aggressive, frantic, highly athletic choreography on the outer spinning turntable ring, simulating the chaos and retreat of the Continental Army.
+- General George Washington makes a commanding, powerful entrance by stepping directly out of a cloud of low-lying stage fog at upstage center, immediately pulling focus.
+- Hamilton and Burr occupy opposite sides of the stage floor, stepping onto the inner turntable as they are pulled into Washington's orbit.
+- In the final third, the turntable carries away the battlefield chaos, spinning the heavy wooden desks and military map props into place downstage center for Washington's makeshift headquarters.
+---
+
+
+## Content
+
+[Company:]
+British Admiral Howe's got troops on the water
+Thirty-two thousand troops in New York harbor
+
+[Ensemble 1 (Ensemble 2):]
+Thirty-two thousand troops in New York harbor
+(Thirty-two thousand troops in New York harbor)
+When they surround our troops!
+(They surround our troops!)
+When they surround our troops!
+
+[Hamilton:]
+As a kid in the Caribbean I wished for a war
+I knew that I was poor
+I knew it was the only way to
+[Hamilton/Burr/Mulligan/Laurens/Lafayette:]
+Rise up!
+[Hamilton:]
+If they tell my story
+I am either gonna die on the battlefield in glory or
+[Hamilton/Burr/Mulligan/Laurens/Lafayette:]
+Rise up!
+[Hamilton:]
+I will fight for this land
+But there's only one man
+Who can give us a command so we canâ€”
+[Hamilton/Burr/Mulligan/Laurens/Lafayette:]
+Rise up!
+[Hamilton:]
+Understand? It's the only way to
+[Hamilton/Burr/Mulligan/Laurens/Lafayette:]
+Rise up! Rise up!
+[Hamilton:]
+Here he comes!
+
+[Ensemble:]
+Here comes the General!
+[Burr:]
+Ladies and gentlemen!
+[Ensemble:]
+Here comes the General!
+[Burr:]
+The moment you've been waiting for!
+[Ensemble:]
+Here comes the General!
+[Burr:]
+The pride of Mount Vernon!
+[Ensemble:]
+Here comes the General!
+[Burr:]
+George Washington!
+
+[Washington (Ensemble):]
+We are outgunned (What?)
+Outmanned (What?)
+Outnumbered
+Outplanned (Buck, buck, buck, buck, buck!)
+We gotta make an all out stand
+Ayo, I'm gonna need a right-hand man (Buck, buck, buck, buck, buck!)
+
+[Washington:]
+Check it
+Can I be real a second?
+For just a millisecond?
+Let down my guard and tell the people how I feel a second?
+Now I'm the model of a modern major general
+The venerated Virginian veteran whose men are all
+Lining up, to put me up on a pedestal
+Writin' letters to relatives
+Embellishin' my elegance and eloquence
+But the elephant is in the room
+The truth is in ya face when ya hear the British cannons goâ€¦
+[Ensemble:]
+Boom!
+[Washington:]
+Any hope of success is fleeting
+How can I keep leading when the people I'm
+Leading keep retreating?
+We put a stop to the bleeding as the British take Brooklyn
+Knight takes rook, but look
+
+[Washington (Ensemble):]
+We are outgunned (What?)
+Outmanned (What?)
+Outnumbered
+Outplanned (Buck, buck, buck, buck, buck!)
+We gotta make an all out stand
+Ayo, I'm gonna need a right-hand man (Buck, buck, buck, buck, buck!)
+Incoming!
+
+[Hamilton:]
+They're battering down the Battery check the damages
+[Mulligan:]
+Rah!
+[Hamilton:]
+We gotta stop 'em and rob 'em of their advantages
+[Mulligan:]
+Rah!
+[Hamilton:]
+Let's take a stand with the stamina God has granted us
+Hamilton won't abandon ship
+Yo, let's steal their cannons
+[Mulligan (Company):]
+Shh-boom! (Boom!)
+[Washington:]
+Goes the cannon, watch the blood and the shit spray andâ€¦
+[Company:]
+Boom!
+[Washington:]
+Goes the cannon, we're abandonin' Kips Bay andâ€¦
+[Company:]
+Boom!
+[Washington:]
+There's another ship andâ€¦
+[Company:]
+Boom!
+[Washington:]
+We just lost the southern tip andâ€¦
+[Company:]
+Boom!
+[Washington:]
+We gotta run to Harlem quick, we can't afford another slip
+Guns and horses giddyup
+I decide to divvy up
+My forces, they're skittish as the British cut the city up
+This close to giving up, facing mad scrutiny
+I scream in the face of this mass mutiny:
+Are these the men with which I am to defend America?
+We ride at midnight, Manhattan in the distance
+I cannot be everywhere at once, people
+I'm in dire need of assistanceâ€¦
+
+[Burr:]
+Your excellency, sir!
+[Washington:]
+Who are you?
+[Burr:]
+Aaron Burr, Sir
+Permission to state my case?
+[Washington:]
+As you were
+[Burr:]
+Sir
+I was a captain under General Montgomery
+Until he caught a bullet in the neck in Quebec
+And well, in summary
+I think that I could be of some assistance
+I admire how you keep firing on the British
+From a distance
+[Washington:]
+Huh
+[Burr:]
+I have some questions, a couple of suggestions on how to fight instead of fleeing west
+[Washington:]
+Yes?
+[Burr:]
+Well
+[Hamilton:]
+Your excellency, you wanted to see me?
+[Washington:]
+Hamilton, come in, have you met Burr?
+[Hamilton:]
+Yes, sir
+[Hamilton and Burr:]
+We keep meeting
+[Burr:]
+As I was saying, sir, I look forward to seeing your strategy play out
+[Washington:]
+Burr?
+[Burr:]
+Sir?
+[Washington:]
+Close the door on your way out
+
+[Hamilton:]
+Have I done something wrong, sir?
+[Washington:]
+On the contrary
+I called you here because our odds are beyond scary
+Your reputation precedes you, but I have to laugh
+[Hamilton:]
+Sir?
+[Washington:]
+Hamilton, how come no one can get you on their staff?
+[Hamilton:]
+Sir!
+[Washington:]
+Don't get me wrong, you're a young man of great renown
+I know you stole British cannons when we were still downtown
+Nathaniel Greene and Henry Knox wanted to hire youâ€¦
+[Hamilton:]
+To be their Secretary? I don't think so
+[Washington:]
+And why're you upset?
+[Hamilton:]
+I'm not
+[Washington:]
+It's alright, you want to fight, you've got a hunger
+I was just like you when I was younger
+Head full of fantasies of dyin' like a martyr?
+[Hamilton:]
+Yes
+[Washington:]
+Dying is easy, young man
+Living is harder
+[Hamilton:]
+Why are you telling me this?
+[Washington:]
+I'm being honest
+I'm working with a third of what our Congress has promised
+We are a powder keg about to explode
+I need someone like you to lighten the load. So?
+
+[Company except Hamilton:]
+I am not throwin' away my shot!
+I am not throwin' away my shot!
+Ayo, I'm just like my country
+I'm young scrappy and hungry!
+[Hamilton:]
+I am not throwing away my shot!
+
+[Washington:]
+Son
+[Washington and Company:]
+We are outgunned, outmanned!
+[Hamilton:]
+You need all the help you can get
+I have some friends. Laurens, Mulligan
+Marquis de Lafayette, okay, what else?
+[Washington and Company:]
+Outnumbered, outplanned!
+[Hamilton:]
+We'll need some spies on the inside
+Some King's men who might let some things slide
+
+[Hamilton (Company) {Eliza/Angelica/Peggy/Women}:]
+(Boom!) I'll write to Congress and tell 'em we need supplies, you rally the guys {Whoa, whoa, whoa...}
+Master the element of surprise
+(Boom!) I'll rise above my station, organize your information, 'til we rise to the occasion of our new nation. Sir! {Whoa, whoa, whoa...}
+
+[Ensemble:]
+Here comes the General!
+[Hamilton:]
+Rise up!
+[Laurens/Lafayette/Mulligan:]
+What?
+[Ensemble:]
+Here comes the General!
+[Hamilton/Schuyler Sisters/Women:]
+Rise up!
+[Laurens/Lafayette/Mulligan:]
+What?
+[Ensemble:]
+Here comes the General!
+[Hamilton/Schuyler Sisters:]
+Rise up!
+[Laurens/Lafayette/Mulligan:]
+What?
+[Company:]
+Here comes the General!
+[Hamilton:]
+What?
+[Washington:]
+And his right-hand man!
+[Company:]
+Boom!

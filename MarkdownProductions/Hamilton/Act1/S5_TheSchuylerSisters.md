@@ -1,0 +1,180 @@
+---
+Title: 05 - The Schuyler Sisters
+Set Layout: Bright, bustling, open New York City street. The scaffolding is fully occupied by members of the ensemble looking down like citizens on balconies.
+Lighting: High-intensity, vibrant daylight wash. Crisp pink, soft yellow, and bright white spotlights track the three sisters as they move.
+Blocking Elements:
+- Angelica, Eliza, and Peggy enter from upstage center walking in a synchronized, confident formation down toward the footlights.
+- The outer turntable spins clockwise while the inner turntable spins counter-clockwise, carrying ensemble members past the sisters to simulate a crowded, energetic city street.
+- Burr watches from the perimeter, occasionally stepping onto the outer ring to intercept them.
+- Choreography is sharp, modern, and high-energy, with the sisters occupying dominant downstage positions throughout the track.
+---
+
+
+## Content
+
+
+[Burr:]
+There's nothing rich folks love more
+Than going downtown and slummin' it with the poor
+They pull up in their carriages and gawk
+At the students in the common
+Just to watch them talk
+Take Philip Schuyler: the man is loaded
+Uh-oh, but little does he know that
+His daughters, Peggy, Angelica, Eliza
+Sneak into the city just to watch all the guys at
+
+[Company:]
+Work, work!
+[Angelica:]
+Angelica!
+[Company:]
+Work, work!
+[Eliza:]
+Eliza!
+[Peggy:]
+And Peggy!
+[Company:]
+Work, work!
+The Schuyler sisters!
+[Angelica:]
+Angelica!
+[Peggy:]
+Peggy!
+[Eliza:]
+Eliza!
+[Company:]
+Work!
+
+[Peggy:]
+Daddy said to be home by sundown
+[Angelica:]
+Daddy doesn't need to know
+[Peggy:]
+Daddy said not to go downtown
+[Eliza:]
+Like I said, you're free to go
+[Angelica:]
+But look around, look around
+The revolution's happening in New York
+[Eliza/Peggy:]
+New York
+[Company:]
+Angelica
+[Schuyler Sisters and company:]
+Work!
+
+[Peggy:]
+It's bad enough daddy wants to go to war
+[Eliza:]
+People shouting in the square
+[Peggy:]
+It's bad enough there'll be violence on our shore
+[Angelica:]
+New ideas in the air
+[Angelica and Male Ensemble:]
+Look around, look around
+[Eliza:]
+Angelica, remind me what we're looking forâ€¦
+[All men:]
+She's lookin' for me!
+
+[Angelica (Company):]
+Eliza, I'm lookin' for a mind at work (Work, work!)
+I'm lookin' for a mind at work! (Work, work!)
+I'm lookin' for a mind at work! (Work, work!)
+Whooaaaaa!
+
+[Eliza/Angelica/Peggy:]
+Whooaaaaa!
+Work!
+
+[Burr:]
+Wooh! There's nothin' like summer in the city
+Someone in a rush next to someone lookin' pretty
+Excuse me, miss, I know it's not funny
+But your perfume smells like your daddy's got money
+Why you slummin' in the city in your fancy heels
+You searching for an urchin who can give you ideals?
+[Angelica:]
+Burr, you disgust me
+[Burr:]
+Ah, so you've discussed me
+I'm a trust fund, baby, you can trust me!
+
+[Angelica:]
+I've been reading Common Sense by Thomas Paine
+So men say that I'm intense or I'm insane
+You want a revolution? I want a revelation
+So listen to my declaration:
+[Eliza/Angelica/Peggy:]
+"We hold these truths to be self-evident
+That all men are created equal"
+[Angelica:]
+And when I meet Thomas Jefferson
+[Company:]
+Unh!
+[Angelica:]
+I'mma compel him to include women in the sequel!
+[Women:]
+Work!
+
+[Eliza:]
+Look around, look around at how
+Lucky we are to be alive right now!
+[Eliza/Peggy:]
+Look around, look around at how
+Lucky we are to be alive right now!
+[Eliza/Angelica/Peggy:]
+History is happening in Manhattan and we just happen to be
+In the greatest city in the world!
+[Schuyler Sisters and Company:]
+In the greatest city in the world!
+
+[Angelica (Eliza/Peggy) {men}:]
+'Cause I've been reading Common Sense by Thomas Paine (Look around, look around) {Hey! Hey! Hey! Hey!}
+So men say that I'm intense or I'm insane (The revolution's happening in) {Hey! Hey! Hey! Hey!}
+[Angelica (Eliza/Peggy) {women}:]
+You want a revolution? I want a revelation (New York! In New York!) {Look around, look around the revolution's happening}
+So listen to my declaration:
+[Angelica/Eliza/Peggy (Women Ensemble):]
+We hold these truths to be self evident that all men are created equal (Look around, look around)
+Whoo! (At how lucky we are to be alive right now)
+[Full Company:]
+Look around, look around at how lucky we are to be alive right now!
+History is happening in Manhattan and we just happen to be
+[All women:]
+In the greatest city in the world
+[All men:]
+In the greatest city
+[Company:]
+In the greatest city in the world!
+
+[Company:]
+Work, work!
+[Angelica:]
+Angelica!
+[Company:]
+Work, work!
+[Eliza:]
+Eliza!
+[Peggy:]
+And Peggy!
+[Company:]
+Work, work!
+[Angelica/Eliza/Peggy:]
+The Schuyler sisters!
+[Company:]
+Work, work!
+[Angelica/Eliza/Peggy (Company):]
+We're looking for a mind at work! (Work, work!)
+Hey! (Work, work!)
+Hey! (Work, work!)
+[Eliza/Peggy {Angelica} (Company):]
+Hey! (Work, work!)
+{Whoa!} (Work, work!) (Work, work!)
+In the greatest city (Work, work!)
+{In the greatest} City in the world {City in the world}
+[Company:]
+In the greatest city in the world!
+
