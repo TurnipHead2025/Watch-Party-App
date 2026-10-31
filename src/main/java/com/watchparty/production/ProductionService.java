@@ -1,7 +1,8 @@
 package com.watchparty.production;
 
 import java.util.List;
-
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 @Service
@@ -14,8 +15,8 @@ public class ProductionService {
 
     // methods
 
-    public List<Production> getAllProductions() {
-        return productionRepository.findAll();
+    public Page<Production> getAllProductions(Pageable pageable) {
+        return productionRepository.findAll(pageable);
     }
 
     public Production getProductionById(Long id) {
