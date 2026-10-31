@@ -1,7 +1,7 @@
 package com.watchparty.beat;
 
-import java.util.List;
-
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 
@@ -19,9 +19,9 @@ public class BeatService {
 
     // Methods
 
-    //Calls BeatRepository inherited JPA method to get all beats from the database
-    public List<Beat> getAllBeats() {
-        return beatRepository.findAll();
+    // Call BeatRepository's inherited findAll(Pageable) method. It retrieves one page of Beats from the database using the requested size and sorting.       
+    public Page<Beat> getAllBeats(Pageable pageable) {
+        return beatRepository.findAll(pageable);
     }
 
     //Calls BeatRepository inherited JPA method to get a beat by its ID from the database

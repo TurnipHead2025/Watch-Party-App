@@ -1,7 +1,7 @@
 package com.watchparty.beat;
 
-import java.util.List;
-
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -20,12 +20,12 @@ public class BeatController {
 
     //methods
 
-    //When an HTTP client sends a `GET` request to `/beats`, run the method directly below this annotation.
-    // Ask `BeatService` for all the Beats, then return that list as the HTTP response.
+    // When an HTTP client sends GET /beats, Spring fills Pageable from the query parameters.
+    // The Controller passes Pageable to BeatService and returns one page of Beats as the response.
 
 	@GetMapping("/beats")
-	public List<Beat> getAllBeats() {
-		return beatService.getAllBeats();
+    public Page<Beat> getAllBeats(Pageable pageable) {
+        return beatService.getAllBeats(pageable);
 	}
 
     //When an HTTP client sends a `GET` request to `/beats/{id}`, run the method directly below this annotation.
