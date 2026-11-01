@@ -22,7 +22,7 @@ public class ImportController {
     }
 
     @PostMapping("/imports/{productionName}")
-    public Production importProduction(@PathVariable String productionName) {
+    public Production importProduction(@PathVariable("productionName") String productionName) {
         Production production = markdownProductionImporter.importProduction(
                 Path.of("MarkdownProductions"),
                 productionName);

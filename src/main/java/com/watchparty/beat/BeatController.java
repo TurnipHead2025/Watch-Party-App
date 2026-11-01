@@ -30,9 +30,9 @@ public class BeatController {
 
     //When an HTTP client sends a `GET` request to `/beats/{id}`, run the method directly below this annotation.
     // Ask `BeatService` for the Beat with the given ID, then return that Beat
-
+    //PathVariable annotation Gets the id from the URL and passes it into this method.
     @GetMapping("/beats/{id}")
-    public Beat getBeatById(@PathVariable Long id) {
+    public Beat getBeatById(@PathVariable("id") Long id) {
         return beatService.getBeatById(id);
     }
 
@@ -46,14 +46,14 @@ public class BeatController {
     //The request body supplies the new field values. The controller passes the ID and Beat to the Service. The Service ask the Repository to find the existing Beat by ID. The Service updates the fields and asks the Repository to save the updated Beat.
 
     @PutMapping("/beats/{id}")
-    public Beat updateBeat(@PathVariable Long id, @RequestBody Beat updatedBeat) {
+    public Beat updateBeat(@PathVariable("id") Long id, @RequestBody Beat updatedBeat) {
         return beatService.updateBeat(id, updatedBeat);
     }
 
     //The controller passes the ID to the Service. The Service asks the Repository to delete the Beat with that ID.
     
     @DeleteMapping("/beats/{id}")
-    public void deleteBeat(@PathVariable Long id) {
+    public void deleteBeat(@PathVariable("id") Long id) {
         beatService.deleteBeat(id);
     }
 
