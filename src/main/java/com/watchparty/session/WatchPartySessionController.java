@@ -28,7 +28,7 @@ public class WatchPartySessionController {
     }  
     
     @GetMapping("/sessions/{id}")
-    public WatchPartySession getSessionById(@PathVariable Long id) {
+    public WatchPartySession getSessionById(@PathVariable("id") Long id) {
         return watchPartySessionService.getSessionById(id);
     }
 
@@ -38,12 +38,12 @@ public class WatchPartySessionController {
     }
 
     @DeleteMapping("/sessions/{id}")
-    public void deleteSession(@PathVariable Long id) {
+    public void deleteSession(@PathVariable("id") Long id) {
         watchPartySessionService.deleteSession(id);
     }
 
     @PutMapping("/sessions/{id}")
-    public WatchPartySession updateSession(@PathVariable Long id, @RequestBody WatchPartySession updatedSession) {
+    public WatchPartySession updateSession(@PathVariable("id") Long id, @RequestBody WatchPartySession updatedSession) {
         return watchPartySessionService.updateSession(id, updatedSession);
     }
     
