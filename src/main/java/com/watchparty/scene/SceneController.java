@@ -27,7 +27,7 @@ public class SceneController {
     }
 
     @GetMapping("/scenes/{id}")
-    public Scene getSceneById(@PathVariable Long id) {
+    public Scene getSceneById(@PathVariable("id") Long id) {
         return sceneService.getSceneById(id);
     }
 
@@ -37,12 +37,12 @@ public class SceneController {
     }
 
     @DeleteMapping("/scenes/{id}")
-    public void deleteScene(@PathVariable Long id) {
+    public void deleteScene(@PathVariable("id") Long id) {
         sceneService.deleteScene(id);
     }
 
     @PutMapping("/scenes/{id}")
-    public Scene updateScene(@PathVariable Long id, @RequestBody Scene updatedScene) {
+    public Scene updateScene(@PathVariable("id") Long id, @RequestBody Scene updatedScene) {
         return sceneService.updateScene(id, updatedScene);
     } 
 }  

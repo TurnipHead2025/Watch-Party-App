@@ -1,10 +1,7 @@
 package com.watchparty.production;
 
-import java.util.List;
-
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
-
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -30,7 +27,7 @@ public class ProductionController {
     }
 
     @GetMapping("/productions/{id}")
-    public Production getProductionById(@PathVariable Long id) {
+    public Production getProductionById(@PathVariable("id") Long id) {
         return productionService.getProductionById(id);
     }
 
@@ -40,12 +37,12 @@ public class ProductionController {
     }  
     
     @DeleteMapping("/productions/{id}")
-    public void deleteProduction(@PathVariable Long id) {
+    public void deleteProduction(@PathVariable("id") Long id) {
         productionService.deleteProduction(id);
     }  
 
     @PutMapping("/productions/{id}")
-    public Production updateProduction(@PathVariable Long id,
+    public Production updateProduction(@PathVariable("id") Long id,
         @RequestBody Production updatedProduction) {
         return productionService.updateProduction(id, updatedProduction);
     }
